@@ -4,6 +4,5 @@ matplotlib
 seaborn
 plotly
 sqlalchemy
-sqlite3
 requests
 jupyter
