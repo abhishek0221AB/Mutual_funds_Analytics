@@ -1,5 +1,5 @@
 
-# 🎯 KEY EDA FINDINGS — DAY 3
+#  KEY EDA FINDINGS — DAY 3
 
 ## 1. NAV Trends & Market Dynamics
    • NAV data spans 2022-2026 across 40 mutual fund schemes
@@ -63,23 +63,23 @@
 
 ---
 
-## 📊 CHARTS GENERATED
+##  CHARTS GENERATED
 
-   ✅ NAV Trend Lines (all 40 schemes)
-   ✅ AUM Growth by Fund House
-   ✅ SIP Inflow Time-Series
-   ✅ Category-wise Inflow Heatmap
-   ✅ Investor Demographics Analysis
-   ✅ Geographic Distribution Analysis
-   ✅ Folio Count Growth Trend
-   ✅ NAV Return Correlation Matrix
-   ✅ Sector Allocation Chart
-   ✅ EDA Findings Summary
+    NAV Trend Lines (all 40 schemes)
+    AUM Growth by Fund House
+    SIP Inflow Time-Series
+    Category-wise Inflow Heatmap
+    Investor Demographics Analysis
+    Geographic Distribution Analysis
+    Folio Count Growth Trend
+    NAV Return Correlation Matrix
+    Sector Allocation Chart
+    EDA Findings Summary
 
 
 ---
 
-## 💡 KEY INSIGHTS FOR BUSINESS
+##  KEY INSIGHTS FOR BUSINESS
 
    1. SIP-driven growth indicates strong retail participation
    2. B30 city expansion provides growth opportunities
